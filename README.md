@@ -1,2 +1,2 @@
 # Subscribe-and-join-button-replica
-This code in python is about the Deffie Hellman Key  exchange protocol
+In this, I have tried to create a replica of the subscribe and join button
